@@ -1,0 +1,8 @@
+package avaliacao;
+
+public class Disciplina {
+	int matricula;
+	float notaProva1;
+	float notaProva2;
+	float notaTrabalho;
+}

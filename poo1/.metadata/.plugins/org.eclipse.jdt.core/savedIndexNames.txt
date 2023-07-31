@@ -1,0 +1,3 @@
+INDEX VERSION 1.132+C:\Users\Diogo\OneDrive\Área de Trabalho\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1696264553.index

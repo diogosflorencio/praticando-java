@@ -1,0 +1,11 @@
+package avaliacao;
+
+public class Principal {
+	public static void main(String[] args) {
+		Disciplina aluno1 = new Disciplina(100,"Diogo",8.6,2,8);
+		double media = aluno1.media();
+		
+		System.out.print(aluno1.mediaFinal(media));
+		
+	}
+}

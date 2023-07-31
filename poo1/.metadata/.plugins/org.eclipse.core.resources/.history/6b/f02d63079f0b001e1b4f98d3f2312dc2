@@ -1,0 +1,11 @@
+package avaliacao;
+
+public class Principal {
+	public static void main(String[] args) {
+		Disciplina aluno1 = new Disciplina(100,"Diogo",8.6,1,2);
+		
+		
+		System.out.print("preciso de: " + aluno1.mediaFinal()+" tirei: "+ aluno1.media());
+		
+	}
+}

@@ -1,0 +1,11 @@
+package avaliacao;
+
+public class Principal {
+	public static void main(String[] args) {
+		Disciplina aluno1 = new Disciplina();
+		int idade;
+		System.out.println(idade);
+		idade = 22;
+		aluno1.nome = "Diogo";
+	}
+}

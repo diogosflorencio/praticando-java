@@ -1,0 +1,10 @@
+package avaliacao;
+
+public class Disciplina {
+	int matricula;
+	String nome;
+	float notaProva1;
+	float notaProva2;
+	float notaTrabalho;
+	
+}

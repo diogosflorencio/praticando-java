@@ -1,0 +1,9 @@
+package avaliacao;
+
+public class Principal {
+	public static void main(String[] args) {
+		Disciplina aluno1 = new Disciplina();
+		aluno1.matricula = 12;
+		System.out.print(aluno1.matricula);
+	}
+}
